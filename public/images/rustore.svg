@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="53" viewBox="0 0 180 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="180" height="53" rx="8" fill="#2B2B2B"/>
+    <path d="M50 15h80v23h-80z" fill="none"/>
+    <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle" dominant-baseline="middle">Скачать в RuStore</text>
+    <path d="M40 26.5c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10zm-5.758-2.343l-6.485-3.485c-.426-.229-.757.114-.757.6v10.456c0 .486.33.829.757.6l6.485-3.485c.426-.229.426-.829 0-1.057z" fill="white"/>
+</svg> 
