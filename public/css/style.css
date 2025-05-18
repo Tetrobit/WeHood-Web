@@ -49,6 +49,12 @@ body {
     color: var(--primary-color);
 }
 
+.logo-image {
+    height: 120px;
+    transform: translateY(10px);
+    width: auto;
+}
+
 .nav-links {
     display: flex;
     gap: 30px;
@@ -258,6 +264,11 @@ body {
 .footer-logo {
     font-size: 24px;
     font-weight: 700;
+}
+
+.footer-logo .logo-image {
+    width: auto;
+    filter: brightness(0) invert(1);
 }
 
 .footer-links {
