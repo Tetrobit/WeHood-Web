@@ -248,6 +248,9 @@ body {
     font-weight: 600;
     text-decoration: none;
     transition: transform 0.3s ease;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
 }
 
 .store-button img {
