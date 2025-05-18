@@ -1,0 +1,22 @@
+{
+  "name": "my-neighborhood-landing",
+  "version": "1.0.0",
+  "description": "Landing page for My Neighborhood mobile app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "compression": "^1.8.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "helmet": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
