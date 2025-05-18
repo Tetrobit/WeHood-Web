@@ -232,13 +232,32 @@ body {
     justify-content: center;
 }
 
+.store-button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.download-button {
+    background-color: white;
+    color: black;
+    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
 .store-button img {
     height: 50px;
     transition: transform 0.3s ease;
 }
 
-.store-button:hover img {
-    transform: scale(1.05);
+.store-button.download-button:hover {
+    /* transform: scale(1.05); */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 /* Footer */
